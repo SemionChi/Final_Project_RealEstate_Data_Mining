@@ -1,11 +1,14 @@
 # Realestate Project
 
 ## Introduction
-Data science project including
-* Crawling method with selenium
+
+project including
+* Crawling with selenium
 * Data cleaning 
 * EDA and visualization
 * ML
+* presentation
+
 
 
 ## Authors
